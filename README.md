@@ -36,17 +36,6 @@ The **Discrete Cosine Transform (DCT)** is a key component of image compression 
 
 ---
 
-## **How to Use**
-1. Open the notebook in **Google Colab**.
-2. Upload an image when prompted.
-3. Run the cells sequentially to:
-   - Apply DCT to the image.
-   - Quantize the DCT coefficients.
-   - Reconstruct the image.
-   - Visualize and compare the results.
-
----
-
 ## **Dependencies**
 - Python 3.x
 - Libraries:
